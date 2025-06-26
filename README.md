@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RoNotBroYT</h1>
-<h3 align="center">I'm a beginner developer from the uk</h3>
+<h3 align="center">I'm a developer from the uk</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronotbroyt&label=Profile%20views&color=0e75b6&style=flat" alt="ronotbroyt" /> </p>
 
@@ -23,7 +23,7 @@
 
 - 📄 my new youtube channel [https://www.youtube.com/@RoNotBroYTReacts](https://www.youtube.com/@RoNotBroYTReacts)
 
-- ⚡ Fun fact **I have an iPhone 15**
+- ⚡ Fun fact **I support Man U**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
