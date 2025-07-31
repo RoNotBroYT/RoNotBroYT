@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/ronotbroyt" target="blank"><img src="https://img.shields.io/twitter/follow/ronotbroyt?logo=twitter&style=for-the-badge" alt="ronotbroyt" /></a> </p>
 
-- 🔭 im doing coding [RoNotBroYT/codes](https://github.com/RoNotBroYT/Codes.git)
+- 🔭 im doing coding [RoNotBroYT/my-games](https://github.com/RoNotBroYT/my-games)
 
 - 🌱 I’m currently learning **java cs and more!**
 
-- 👯 I’m looking to collaborate on [RoNotBroYT/code](https://github.com/RoNotBroYT/code.git)
+- 👯 I’m looking to collaborate on [RoNotBroYT/Alert-buy-sell](https://github.com/RoNotBroYT/Alert-buy-sell)
 
-- 🤝 I’m looking for help with [RoNotBroYT/code](https://github.com/RoNotBroYT/code.git)
+- 🤝 I’m looking for help with [RoNotBroYT/yt-ai](https://github.com/RoNotBroYT/yt-ai)
 
 - 👨‍💻 All of my projects are available at [https://github.com/RoNotBroYT](https://github.com/RoNotBroYT)
 
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **tech**
 
-- 📫 How to reach me **RoNotBroYT@gmail.com**
+- 📫 How to reach me **ronotbroytmail@gmail.com*
 
 - 📄 my new youtube channel [https://www.youtube.com/@RoNotBroYTReacts](https://www.youtube.com/@RoNotBroYTReacts)
 
