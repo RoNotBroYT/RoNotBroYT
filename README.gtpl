@@ -1,6 +1,6 @@
 ### GitHub Stats
 
-<p align="left"><img src="https://raw.githubusercontent.com/brrock/brrock/main/github-metrics.svg" /></p>
+<p align="left"><img src="https://raw.githubusercontent.com/RoNotBroYT/RoNotBroYT/main/github-metrics.svg" /></p>
 
 ### 👷 Check out what I'm currently working on
 {{ range recentContributions 5 }}
