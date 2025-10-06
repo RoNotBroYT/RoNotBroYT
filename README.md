@@ -6,9 +6,9 @@
 
 - [RoNotBroYT/test-btn](https://github.com/RoNotBroYT/test-btn) - 
 - [RoNotBroYT/Idk-radom-game](https://github.com/RoNotBroYT/Idk-radom-game) - 
-- [RoNotBroYT/My-website](https://github.com/RoNotBroYT/My-website) - It is my website 
 - [RoNotBroYT/jacuzzify](https://github.com/RoNotBroYT/jacuzzify) - 
-- [RoNotBroYT/trading-websites](https://github.com/RoNotBroYT/trading-websites) - 
+- [RoNotBroYT/My-website](https://github.com/RoNotBroYT/My-website) - It is my website 
+- [RoNotBroYT/trading-website](https://github.com/RoNotBroYT/trading-website) - 
 ### 🌱 My latest projects
 
 - [RoNotBroYT/test-btn](https://github.com/RoNotBroYT/test-btn) - 
