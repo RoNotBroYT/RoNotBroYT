@@ -20,5 +20,10 @@
 
 ### ⭐ Recent Stars
 
+- [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
+- [brrock/vite-plugin-singlefile](https://github.com/brrock/vite-plugin-singlefile) - 
+- [brrock/birthday-card-generator-workflow-demo](https://github.com/brrock/birthday-card-generator-workflow-demo) - 
+- [fal-ai/flashpack](https://github.com/fal-ai/flashpack) - High-throughput tensor loading for PyTorch
+- [JasonN3/build-container-installer](https://github.com/JasonN3/build-container-installer) - Creates an ISO for installing a container image as an OS
 # My setup
 Macbook Air m4 
