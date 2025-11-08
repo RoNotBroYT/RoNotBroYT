@@ -20,10 +20,10 @@
 
 ### ⭐ Recent Stars
 
-- [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
-- [brrock/vite-plugin-singlefile](https://github.com/brrock/vite-plugin-singlefile) - 
-- [brrock/birthday-card-generator-workflow-demo](https://github.com/brrock/birthday-card-generator-workflow-demo) - 
-- [fal-ai/flashpack](https://github.com/fal-ai/flashpack) - High-throughput tensor loading for PyTorch
-- [JasonN3/build-container-installer](https://github.com/JasonN3/build-container-installer) - Creates an ISO for installing a container image as an OS
+- [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
+- [cloudflare/telescope](https://github.com/cloudflare/telescope) - Cross-browser web performance testing agent
+- [Krish120003/gitfaster](https://github.com/Krish120003/gitfaster) - Gitfaster is a minimal, blazing fast client that makes GitHub feel modern again.
+- [extremecoders-re/pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) - PyInstaller Extractor
+- [fuma-nama/stats](https://github.com/fuma-nama/stats) - my hobby project to display NPM package downloads in widgets
 # My setup
 Macbook Air m4 
