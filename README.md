@@ -18,6 +18,7 @@
 - [RoNotBroYT/trading-websites](https://github.com/RoNotBroYT/trading-websites) - 
 ### 🔨 My recent Pull Requests
 
+- [mearge](https://github.com/RoNotBroYT/RoNotBroYT.xyz/pull/1) on [RoNotBroYT/RoNotBroYT.xyz](https://github.com/RoNotBroYT/RoNotBroYT.xyz)
 ### ⭐ Recent Stars
 
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
