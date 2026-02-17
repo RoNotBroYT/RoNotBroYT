@@ -4,18 +4,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [RoNotBroYT/React-HTML](https://github.com/RoNotBroYT/React-HTML) - A react weather app using html and shadcn.
 - [RoNotBroYT/RoNotBroYT-Website](https://github.com/RoNotBroYT/RoNotBroYT-Website) - My official website coded in next.js.
 - [RoNotBroYT/test-btn](https://github.com/RoNotBroYT/test-btn) - 
 - [RoNotBroYT/Idk-radom-game](https://github.com/RoNotBroYT/Idk-radom-game) - 
-- [RoNotBroYT/jacuzzify](https://github.com/RoNotBroYT/jacuzzify) - 
 - [RoNotBroYT/My-website](https://github.com/RoNotBroYT/My-website) - It is my website 
 ### 🌱 My latest projects
 
+- [RoNotBroYT/React-HTML](https://github.com/RoNotBroYT/React-HTML) - A react weather app using html and shadcn.
 - [RoNotBroYT/ro-passwords](https://github.com/RoNotBroYT/ro-passwords) - A simple password generator made in TS.
 - [RoNotBroYT/RoNotBroYT-Website](https://github.com/RoNotBroYT/RoNotBroYT-Website) - My official website coded in next.js.
 - [RoNotBroYT/ro-weather](https://github.com/RoNotBroYT/ro-weather) - 
 - [RoNotBroYT/test-btn](https://github.com/RoNotBroYT/test-btn) - 
-- [RoNotBroYT/Idk-radom-game](https://github.com/RoNotBroYT/Idk-radom-game) - 
 ### 🔨 My recent Pull Requests
 
 - [mearge](https://github.com/RoNotBroYT/RoNotBroYT.xyz/pull/1) on [RoNotBroYT/RoNotBroYT.xyz](https://github.com/RoNotBroYT/RoNotBroYT.xyz)
