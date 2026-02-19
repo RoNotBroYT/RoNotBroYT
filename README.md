@@ -21,10 +21,10 @@
 - [mearge](https://github.com/RoNotBroYT/RoNotBroYT.xyz/pull/1) on [RoNotBroYT/RoNotBroYT.xyz](https://github.com/RoNotBroYT/RoNotBroYT.xyz)
 ### ⭐ Recent Stars
 
+- [RoNotBroYT/ro-weather2](https://github.com/RoNotBroYT/ro-weather2) - 
+- [simples-tools/next-single-file](https://github.com/simples-tools/next-single-file) - Simple way to put a fulll nextjs project into a single html file, regex based, lightning fast, routing support (via hash)
 - [brrock/kahoot-factcheck](https://github.com/brrock/kahoot-factcheck) - Fact checker for kahoots, powered by AI
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [cloudflare/telescope](https://github.com/cloudflare/telescope) - Cross-browser web performance testing agent
-- [Krish120003/gitfaster](https://github.com/Krish120003/gitfaster) - Gitfaster is a minimal, blazing fast client that makes GitHub feel modern again.
-- [extremecoders-re/pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) - PyInstaller Extractor
 # My setup
 Macbook Air m4 
